@@ -16,3 +16,8 @@ This json file has 3383 crypto information. This information includes; cryptoNam
 	"icon":"https://s2.coinmarketcap.com/static/img/coins/128x128/1.png" 
 }
 ```
+
+## How was this file created?
+
+This json file returns a list. This list has 3383 crypto. One open source file was used to create this json file.
+Here is link -> [cryptocurrencies](https://github.com/crypti/cryptocurrencies)
