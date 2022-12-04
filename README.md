@@ -35,10 +35,8 @@ This json file returns a list.
 		"name":"Ethereum",
 		"icon":"https://s2.coinmarketcap.com/static/img/coins/128x128/1027.png"
 	},
-	.
-	.
-	.
-	.
+	
+	...
 ]
 ```
 This list has 3383 crypto. One open source file was used to create this json file.
