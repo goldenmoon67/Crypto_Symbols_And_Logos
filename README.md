@@ -39,3 +39,4 @@ This json file returns a list.
 ```
 This list has 3383 crypto. One open source file was used to create this json file.
 Here is link -> [cryptocurrencies](https://github.com/crypti/cryptocurrencies)
+This repository has just coin name and symbol. But we need to see their icon as well. That's why I have used [coinmarketcap.api](https://coinmarketcap.com/api/). I give the symbols to service and then I get their coinmarketcap id. I need coinmarketcap id's because the image link works with coinmarketcap id. It was really hard to get all coinmarketcap id's from coinmarketcap api with using free plan. You can call the service just 333 times during in the 24 hours.
